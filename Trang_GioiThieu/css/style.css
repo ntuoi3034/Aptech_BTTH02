@@ -1,0 +1,19 @@
+.nav-link{
+    color:black !important;
+}
+h1{
+    text-align:center;
+}
+h2{
+    color:darkblue !important;
+}
+a{
+    text-decoration: none; /* lm mất dấu gạch chân dưới lk*/
+    color:rgb(44, 46, 48);
+}
+a.xanh{
+    color:blue;
+}
+.center{
+    text-align:center;
+}
