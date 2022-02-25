@@ -1,0 +1,6 @@
+Phân công nhiệm vụ:
++ Nguyễn Văn Duy: Trang chủ
++ Nguyễn Ngọc Yến Nhi: Chương trình đào tạo (Phần Lập trình web fullstack)
++ Nguyễn thị Tươi : HANOI-APTECH (Phần giới thiệu), Giao diện trang quản trị
+
+		    
